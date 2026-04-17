@@ -1,0 +1,4 @@
+*.log
+*.tmp
+secret.txt
+.git
